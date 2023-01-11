@@ -12,7 +12,7 @@ specifiers:
   husky: 8.0.3
   lint-staged: 13.1.0
   lodash-es: ^4.17.21
-  pnpm: 7.18.2
+  pnpm: 7.24.3
   prettier: 2.8.2
   rimraf: 3.0.2
   typescript: 4.9.4
@@ -34,7 +34,7 @@ devDependencies:
   husky: 8.0.3
   lint-staged: 13.1.0
   lodash-es: 4.17.21
-  pnpm: 7.18.2
+  pnpm: 7.24.3
   prettier: 2.8.2
   rimraf: 3.0.2
   typescript: 4.9.4
@@ -3518,8 +3518,8 @@ packages:
       pathe: 1.0.0
     dev: true
 
-  /pnpm/7.18.2:
-    resolution: {integrity: sha512-k3LCdsrTPqL4dVgCgjpdWHcwzhEA/YCu2ZFR/+EiFy91azuRQcWgQbYf5rPkYu5x1Dl8+2KtXKTlDcrSx5hnQw==}
+  /pnpm/7.24.3:
+    resolution: {integrity: sha512-0fpP1l16xOY8YwsATSLodNNBa7bitV1cNY475fioVLR7Thx5tkCtdp3xIlvZYX8ZoPtedLhGn3fICC409HQSNQ==}
     engines: {node: '>=14.6'}
     hasBin: true
     dev: true
