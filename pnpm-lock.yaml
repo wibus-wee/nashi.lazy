@@ -14,7 +14,7 @@ specifiers:
   lodash-es: ^4.17.21
   pnpm: 7.18.2
   prettier: 2.8.2
-  rimraf: 3.0.2
+  rimraf: 4.0.4
   typescript: 4.9.4
   unbuild: 1.0.2
   vite: 4.0.4
@@ -36,7 +36,7 @@ devDependencies:
   lodash-es: 4.17.21
   pnpm: 7.18.2
   prettier: 2.8.2
-  rimraf: 3.0.2
+  rimraf: 4.0.4
   typescript: 4.9.4
   unbuild: 1.0.2
   vite: 4.0.4_@types+node@18.11.18
@@ -3707,6 +3707,12 @@ packages:
     hasBin: true
     dependencies:
       glob: 7.2.3
+    dev: true
+
+  /rimraf/4.0.4:
+    resolution: {integrity: sha512-R0hoVr9xTwemarQjoWlNt/nb5dEGVTBhVdkRmEX2zEkT8T6onH0XKiGjuaC7rNNj/gYzY2p4NVRJ3sjO1ascHQ==}
+    engines: {node: '>=14'}
+    hasBin: true
     dev: true
 
   /rollup-plugin-dts/5.0.0_mgv2pqw6pqautjhrrp3f76jxye:
